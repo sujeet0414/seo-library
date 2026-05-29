@@ -1,0 +1,40 @@
+# Maven build output
+/target/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# NetBeans files
+/nbproject/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Generated test reports
+/surefire-reports/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven wrapper files
+.maven/
+
+# IDE/workspace backups
+*.swp
+*~
